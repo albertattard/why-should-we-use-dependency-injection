@@ -268,7 +268,7 @@ public class MockMessageService implements MessageService {
 }
 </pre>
 
-The above mock message service simply stores the parameters into two public fields.  These fields can be used to retrieve the values of the parameters and used for testing ass illustrated next.
+The above mock message service simply stores the parameters into two public fields.  These fields can be used to retrieve the values of the parameters and used for testing as illustrated next.
 
 <pre>
 package com.javacreed.examples.di.part3;
